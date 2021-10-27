@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-JoyConPlugin-0016.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\user\Desktop\UnrealEngineProject\testalpha\Intermediate\Build\Win64\ProjectAlphaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.NoUndef.h.obj"
+"C:\Users\user\Desktop\UnrealEngineProject\testalpha\Plugins\JoyConPlugin\Intermediate\Build\Win64\UE4Editor\Development\JoyConPlugin\Module.JoyConPlugin.cpp.obj"
+"C:\Users\user\Desktop\UnrealEngineProject\testalpha\Plugins\JoyConPlugin\Intermediate\Build\Win64\UE4Editor\Development\JoyConPlugin\Module.JoyConPlugin.gen.cpp.obj"
+"C:\Users\user\Desktop\UnrealEngineProject\testalpha\Plugins\JoyConPlugin\Intermediate\Build\Win64\UE4Editor\Development\JoyConPlugin\hid.c.obj"
+"C:\Users\user\Desktop\UnrealEngineProject\testalpha\Plugins\JoyConPlugin\Intermediate\Build\Win64\UE4Editor\Development\JoyConPlugin\Default.rc2.res"
+/OUT:"C:\Users\user\Desktop\UnrealEngineProject\testalpha\Plugins\JoyConPlugin\Intermediate\Build\Win64\UE4Editor\Development\JoyConPlugin\UE4Editor-JoyConPlugin-0016.lib"
+/INCLUDE:IMPLEMENT_MODULE_JoyConPlugin

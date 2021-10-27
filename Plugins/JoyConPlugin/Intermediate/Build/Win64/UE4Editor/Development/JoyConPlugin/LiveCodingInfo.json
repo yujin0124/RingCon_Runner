@@ -1,0 +1,21 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.JoyConPlugin.cpp.obj": [
+			"IJoyConDriverModule.cpp.obj",
+			"JoyConController.cpp.obj",
+			"JoyConGrip.cpp.obj",
+			"JoyConInformation.cpp.obj",
+			"JoyConInput.cpp.obj",
+			"JoyConPlugin.cpp.obj",
+			"JoyConPluginBPLibrary.cpp.obj",
+			"JoyConState.cpp.obj"
+		],
+		"Module.JoyConPlugin.gen.cpp.obj": [
+			"JoyConGrip.gen.cpp.obj",
+			"JoyConInformation.gen.cpp.obj",
+			"JoyConPlugin.init.gen.cpp.obj",
+			"JoyConPluginBPLibrary.gen.cpp.obj"
+		]
+	}
+}
